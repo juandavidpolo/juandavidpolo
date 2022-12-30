@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juandavidpolo
-- 👀 I’m interested mainly in web development and data science
-- 🌱 I’m currently learning React, React Native and Django
-- 💞️ I’m looking to collaborate on everyone that could I help. I would be pleased in help with issues or problems in your projects
-- 📫 Please mail me to juandavidpolomendez@gmail.com
+- 👋 Hi, I’m @juandavidpolo.
+- 👀 I’m interested mainly in web development and data science.
+- 🌱 I’m currently React, Python developer mainly and adding AWS services to my stack.
+- 💞️ I’m looking to collaborate on everyone that could I help. I would be pleased in help with issues or problems in your projects.
+- 📫 Please mail me to juandavidpolomendez@gmail.com.
 
 <!---
 juandavidpolo/juandavidpolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
