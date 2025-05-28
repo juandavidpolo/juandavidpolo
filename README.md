@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juandavidpolo.
-- 👀 I’m interested mainly in web development and data science.
-- 🌱 I’m currently React, Python developer mainly and adding AWS services to my stack.
-- 💞️ I’m looking to collaborate on everyone that could I help. I would be pleased in help with issues or problems in your projects.
+- 👀 I’m fullstack developer.
+- 🌱 My stack is Python (Flask, Django, fastapi), javascript (node, express and React), SQL databases and AWS services.
 - 📫 Please mail me to juandavidpolomendez@gmail.com.
 
 <!---
